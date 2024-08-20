@@ -65,10 +65,13 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 --> Unit testing :- is testing of units in isolation from the other units
           is important to know if there are problems in early stage of the development by checking if all units work correctly.
+
 --> Integration testing:- is testing of the diffrent units if they work together.
           is important to ensure that the wethier the units together work correctly or not.
+
 --> System testing:- is testing of the whole system if it works correctly or not.
           is important to ensure that the system works correctly as the user expectation and requirement before deploying.
+
 --> Acceptance testing:- is testing of the application form the user perspective to ensure if it meets the requirement.
           is important to ensure that the software is ready to be deliverd to the users.
 
@@ -77,6 +80,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 --> Prompt engineering is the use of specific and right question asking to get the most out of an AI. It's importance is to reduce unwanted and less 
     usefull information that the AI can give us and also to reduce vague answers.
 
